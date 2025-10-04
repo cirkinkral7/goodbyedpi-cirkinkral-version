@@ -11,5 +11,5 @@ Amaç, kullanıcıya **sorunsuz ve stabil bir bağlantı** sağlamaktır.
 - Çeşitli ağlarda test edilmiştir, stabil çalışır  
 
 ## Kurulum
-git clone https://github.com/kullanici-adi/goodbaydpi.git
+git clone https://github.com/cirkinkral7/goodbyedpi-cirkinkral-version
 cd goodbaydpi
