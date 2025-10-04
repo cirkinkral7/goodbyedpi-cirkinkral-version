@@ -12,6 +12,6 @@ Its purpose is to provide users with a **smooth and stable internet connection**
 
 ## Installation
 ```bash
-git clone https://github.com/username/goodbaydpi.git
+git clone https://github.com/cirkinkral7/goodbyedpi-cirkinkral-version
 cd goodbaydpi
 
