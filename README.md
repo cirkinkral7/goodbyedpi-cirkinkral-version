@@ -1,15 +1,17 @@
 # goodbyedpi-cirkinkral-version
 
 
-GoodBayDPI, DPI (Deep Packet Inspection) tabanlı engellemeleri aşmak için geliştirilmiş hafif ve kararlı bir çözümdür.  
-Amaç, kullanıcıya **sorunsuz ve stabil bir bağlantı** sağlamaktır.  
+GoodBayDPI is a lightweight and stable solution designed to bypass Deep Packet Inspection (DPI) restrictions.  
+Its purpose is to provide users with a **smooth and stable internet connection** without extra effort.  
 
-## Özellikler
-- DPI kaynaklı bağlantı sorunlarını ortadan kaldırır  
-- Ekstra ayar gerektirmez, çalıştırmanız yeterlidir  
-- Hızlı, güvenilir ve hafif yapı  
-- Çeşitli ağlarda test edilmiştir, stabil çalışır  
+## Features
+- Eliminates most DPI-related connection issues  
+- No additional configuration required – just run it  
+- Fast, reliable, and lightweight  
+- Tested on various networks, works stably  
 
-## Kurulum
-git clone https://github.com/cirkinkral7/goodbyedpi-cirkinkral-version
+## Installation
+```bash
+git clone https://github.com/username/goodbaydpi.git
 cd goodbaydpi
+
